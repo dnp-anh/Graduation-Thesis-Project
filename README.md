@@ -37,3 +37,7 @@ Simply run the provided `!pip install ...` commands inside the main notebook to 
 - Include key metrics: Accuracy, F1-score, Confusion Matrix, and explainability visualizations.
 ## 6. References
 Schmidt, P., Reiss, A., Duerichen, R., Marberger, C., & Van Laerhoven, K. (2018). Introducing WESAD, a multimodal dataset for wearable stress and affect detection. In Proceedings of the 20th ACM International Conference on Multimodal Interaction (pp. 400–408). ACM. doi:[10.1145/3242969.3242985](https://doi.org/10.1145/3242969.3242985)
+## 7. Author
+- **Do Ngoc Phuong Anh** - Graduation Thesis, University of Economics Ho Chi Minh City (UEH)
+- **Contact**: anhdo.31221020325@st.ueh.edu.vn (during thesis) | anhdo5058@gmail.com (personal) | Github: [dnp-anh](https://github.com/dnp-anh)
+

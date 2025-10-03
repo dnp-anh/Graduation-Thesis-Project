@@ -12,7 +12,7 @@ The project demonstrates:
 - **Platform**: Kaggle Notebook
 - **Accelerator**: GPU T4 x2
 - **Python version**: 3.10+
-- **Libraries**: See requirement.txt
+- **Libraries**: See [requirements.txt](requirements.txt)
 - GPU acceleration is strongly recommended for model training.
 ## 4. Instructions to Run 
 ### Step 1: Setup Kaggle Notebook
